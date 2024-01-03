@@ -46,3 +46,4 @@ Ensure you have the following installed:
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Apollo Client](https://www.apollographql.com/docs/react/)
 
+# reactjs-graphql-demo
