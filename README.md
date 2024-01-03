@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/kalanatebel97/reactjs-graphql-demo.git
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install`
 
@@ -45,5 +45,3 @@ Ensure you have the following installed:
 
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Apollo Client](https://www.apollographql.com/docs/react/)
-
-# reactjs-graphql-demo
